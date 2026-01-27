@@ -41,7 +41,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sepeah&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sepeah&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sepeah&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sepeah&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ## 🤝 Connect with Me
