@@ -6,8 +6,8 @@
 
 ## About Me
 
-I've studied computer science at Helsinki University for the past two years and now building my skills through small projects, experiments, and hands-on learning.  
-My background is varied: special education teacher, archaeology and metal craftsman, now I'm moving toward IT and system consulting.
+I've studied computer science at University of Helsinki for the past two years and now building my skills through small projects, experiments, and hands-on learning.  
+My background is varied: special education teacher, archaeologist and metal craftsman, now I'm moving toward IT and system consulting.
 
 What I'm focusing on right now:
 
