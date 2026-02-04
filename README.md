@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sepe Ahtosalo </h1>
 
 <p align="center">
-  <em>Career changer studying computer science, I got my feet wet and the water is warm so now I'm slowly on my way to the deep end of IT.</em>
+  <em>Career changer studying computer science. I got my feet wet and the water is warm so now I'm slowly on my way to the deep end of IT.</em>
 </p>
 
 ## About Me
