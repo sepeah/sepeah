@@ -12,8 +12,8 @@ Studied so far: Programming - mainly python(20credits) with courses on algorithm
 
 ## What I'm focusing on right now:
 
-- :gear: :computer: Following and ticking the boxes in the **embedded systems** engineering roadmap
-- 🌱 Learning **C++** fundamentals (C++ Institute course)
+- 🌱 Learning **C++** fundamentals (C++ Institute course) - Developing a roguelike game **The Guild** to practice
+- - :gear: :computer: Following and ticking the boxes in the **embedded systems** engineering roadmap
 - 🔌 Experimenting with **ESP32** and learning fundamentals of **electronics and microcontollers**
 - 📚 Building on my university studies to solidify an understanding of **algorithms**, **data structures**, and how **systems** work
 
@@ -24,12 +24,12 @@ I enjoy practical tinkering, clear problem‑solving, and understanding things a
 Started learning git and putting up some repositories that reflect my learning journey:
 
 - **cpp-institute-course**: C++ fundamentals and exercises, notes and tests
+- **The Guild**: A Roguelike text based rpg project in its infancy
 - **small project-repos**: When I come across something interesting to study or demo, I'll put the code up here.
 - **ESP32 experiments**: small tests with microcontrollers as soon as I get some projects with code of my own working
 
 ## Goals
-
-I'm working toward trainee/junior opportunities where I can grow, learn, and contribute in a real-world environment.
+I'm working toward trainee/junior opportunities where I can grow, learn, and contribute in a real-world environment. Meanwhile developing more and more challenging projects to get there.
 
 ---
 
